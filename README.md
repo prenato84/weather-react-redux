@@ -7,7 +7,7 @@ Para as previsões climáticas, são feitas chamadas assíncronas à API do **[O
 Portanto, para seu correto funcionamento, é necessário criar uma chave (key) no site acima e adicioná-la na variável `API_KEY` em `weather-react-redux/src/actions/index.js`
 
 <p align="center">
-  <img src="./assets/projeto.JPG">
+  <img src="./assets/projeto.jpg">
 </p>
 
 ### :keyboard: Instalação e Execução
