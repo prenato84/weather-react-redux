@@ -46,7 +46,7 @@ npm start
 OBS: caso não deseja utilizar o Git, pode baixar o projeto diretamente da página do GitHub
 
 <p align="center">
-  <img width="40%" src="./assets/download.jpg">
+  <img width="40%" src="./assets/downloadv2.jpg">
 </p>
 
 ### :memo: Licença
