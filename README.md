@@ -6,6 +6,10 @@ Para as previsões climáticas, são feitas chamadas assíncronas à API do **[O
 
 Portanto, para seu correto funcionamento, é necessário criar uma chave (key) no site acima e adicioná-la na variável `API_KEY` em `weather-react-redux/src/actions/index.js`
 
+<p align="center">
+  <img src="./assets/projeto.JPG">
+</p>
+
 ### :keyboard: Instalação e Execução
 
 - Clone este repositório
@@ -32,20 +36,18 @@ npm install
 npm start
 ```
 
-- Acesse o endereço `localhost:9000` em seu navegador.
+- Se seu navegador não abrir automaticamente a página do projeto, acesse o endereço `http://localhost:8080/webpack-dev-server/`.
 
 ### :man_technologist: Pré-requisitos do Ambiente
 
 - Interpretador Javascriot **[Node JS](https://nodejs.org/en/download/)**
 - Sistema de versionamento **[Git](https://git-scm.com/)**
 
-OBS: caso não deseja utilizar o Git, pode baixar o projeto diretamente da página do GitHub 
+OBS: caso não deseja utilizar o Git, pode baixar o projeto diretamente da página do GitHub
 
 <p align="center">
   <img width="80%" src="./assets/download.jpg">
 </p>
-
-
 
 ### :memo: Licença
 
@@ -54,5 +56,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com 💜 by <a href="https://www.linkedin.com/in/prenato84">Paulo Castro</a> :wave:
-
-
