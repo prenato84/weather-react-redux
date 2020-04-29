@@ -2,6 +2,8 @@
 
 Projeto que utiliza React e Redux para fazer buscas climáticas em cidades brasileiras.
 
+Além disso, plota gráficos utilizando o pacote react-sparklines e mostra um mapa da cidade pesquisada utilizando Gogle Maps.
+
 Para as previsões climáticas, são feitas chamadas assíncronas à API do **[OpenWeather](https://openweathermap.org/api)**
 
 Portanto, para seu correto funcionamento, é necessário criar uma chave (key) no site acima e adicioná-la na variável `API_KEY` em `weather-react-redux/src/actions/index.js`
